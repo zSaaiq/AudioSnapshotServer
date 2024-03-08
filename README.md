@@ -6,12 +6,12 @@ A modified verison of Nepeta's ASS, which is a TCP/IP server to fetch audio buff
 
 ## Installation
 
-**iOS 11.0-13.5.1 required.**
+**iOS 15.0-16.6.1 required.**
 
-**This tweak by itself does nothing noticeable. A client tweak is neccessary for visible effects - try [Mitsuha Forever](https://github.com/ryannair05/MitsuhaForever/)**
+**This tweak by itself does nothing noticeable. A client tweak is neccessary for visible effects - try [Mitsuha Forever](https://zsaaiq.github.io/jailbreakrepo/)**
 
-1. Add this repository to Cydia: https://repo.packix.com.
-2. Install AudioSnapshotServer.
+1. Add this repository to sileo or zebra: https://zsaaiq.github.io/jailbreakrepo/.
+2. Install AudioSnapshotServer and libmitsuha in order to use Mtsuha Forever.
 
 ## How to use it in your tweak?
 
