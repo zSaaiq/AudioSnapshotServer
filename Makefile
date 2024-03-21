@@ -1,4 +1,5 @@
 FINALPACKAGE = 1
+PREFIX = $(THEOS)/toolchain/Xcode.xctoolchain/usr/bin/
 THEOS_PACKAGE_SCHEME=rootless
 export TARGET = iphone:15.6
 export ADDITIONAL_CFLAGS = -DTHEOS_LEAN_AND_MEAN -fobjc-arc
